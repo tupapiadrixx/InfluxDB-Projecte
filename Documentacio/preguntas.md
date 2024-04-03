@@ -2,4 +2,4 @@
 Un cop realitzada la instal·lació realitza una securització de la mateixa. Quin programa realitza aquesta tasca? Realitza una securització de la instal·lació.
 <br>
 
-![Comparar](Imatges/tabla.png)
+![tabla](Imatges/tabla.png)

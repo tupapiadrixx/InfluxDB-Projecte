@@ -10,3 +10,10 @@ Quines són les instruccions per arrancar / verificar status / apagar servei de 
 <br>
 A on es troba i quin nom rep el fitxer de configuració del SGBD escollit?
 ![tabla](Imatges/conf.png)
+<br>
+A on es troben físicament els fitxers de dades (per defecte). Com ho has sabut?
+El fitxer etc/influxdb.conf
+<br>
+<br>
+El servei de SGBD escollit en quins ports escolta. Quina modificació/passos caldrien fer per canviar aquest port a un altre per exemple? Important: No realitzis els canvis. Només indica els passos que faries.
+![tabla](Imatges/tabla3.png)

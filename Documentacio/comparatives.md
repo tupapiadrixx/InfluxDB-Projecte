@@ -11,3 +11,5 @@ TimescaleDB: TimescaleDB és una base de dades SQL extensible que està optimitz
 OpenTSDB: OpenTSDB és una base de dades de series temporals distribuïda i escalable. És una opció popular per a emmagatzemar i consultar grans volums de dades de series temporals. Encara que comparteix moltes característiques amb InfluxDB, com la capacitat de gestionar dades de series temporals a gran escala, InfluxDB tendeix a ser més fàcil de configurar i administrar, especialment per a aquells que busquen una solució més lleugera i modular.
 
 En resum, tots aquests sistemes tenen els seus propis avantatges i desavantatges segons les necessitats específiques del projecte. InfluxDB destaca per la seva facilitat d'ús, escalabilitat i eficiència en l'emmagatzematge i consulta de dades de series temporals, especialment en escenaris d'IoT, monitoratge i analítica de dades en temps real.
+
+![Comparar](Imatges/comparar.png)

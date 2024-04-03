@@ -6,4 +6,5 @@ InfluxDB es un sistema gestor de base de dades de codi ober desenvolupat per Err
 La seva primera financiacio va ser de 8,1 milions de dolars al 2014 i va tenir un creixement exponencial fins a 60 milions al 2019.
 
 
+
 ![Historia](Imatges/historia.png)

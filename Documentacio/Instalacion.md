@@ -3,6 +3,8 @@ INSTAL·LACIÓ PAS A PAS
 <br>
 <br>
 Instal·lem el paquet de influxdb
+<br>
+
 ![uno](Imatges/uno.png)
 <br>
 <br>

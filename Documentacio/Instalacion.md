@@ -3,7 +3,7 @@ INSTAL·LACIÓ PAS A PAS
 <br>
 <br>
 Instal·lem el paquet de influxdb
-![Comparar](Imatges/uno.png)
+![uno](Imatges/uno.png)
 <br>
 <br>
 Encenem el servei de influxdb

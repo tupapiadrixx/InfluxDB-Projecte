@@ -19,7 +19,9 @@ El fitxer etc/influxdb.conf
 El servei de SGBD escollit en quins ports escolta. Quina modificació/passos caldrien fer per canviar aquest port a un altre per exemple? Important: No realitzis els canvis. Només indica els passos que faries.
 ![tabla](Imatges/tabla3.png)
 <br>
+<br>
 Incloure en la documentació un petit apartat a on s'expliqui com realitzar la connexió a la BD. Demostra que us podeu connectar al SGBD a través d’una eina de gestió de BD o  a través d’un program
+<br>
 <br>
 Per connectar-se mitjançant una eina de gestió de BD: Utilizaria una eina de gestió de BD com InfluxDB Studio o Chronograf per connectar-la a la BD d'InfluxDB.
 <br>

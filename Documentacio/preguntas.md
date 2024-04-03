@@ -35,3 +35,7 @@ Seleccioneu la base de dades a la qual us voleu connectar.
 <br>
 Feu clic al botó de connexió per establir la connexió.
 <br>
+<br>
+Quin tipus de SGBD? (Relacional, no relacional, graf, document,....)
+<br>
+De temps o de serie temporal.

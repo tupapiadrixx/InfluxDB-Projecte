@@ -12,4 +12,4 @@ InfluxDB Cloud: És una oferta de servei gestionat per part de InfluxData que pr
 
 InfluxDB OEM: Aquesta és una opció dissenyada per a fabricants de maquinari i software que desitgin incrustar InfluxDB dins dels seus propis productes. Proporciona una llicència per a la incrustació i distribució de InfluxDB en aplicacions personalitzades o productes preexistents.
 
-![Historia](Imatges/versiones.png)
+![Versiones](Imatges/versiones.png)

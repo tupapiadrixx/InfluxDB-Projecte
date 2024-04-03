@@ -1,7 +1,10 @@
 <br>
 L' ÚS
 <br>
+<br>
 InfluxDB és una base de dades de series temporals dissenyada específicament per gestionar dades que varien amb el temps i que sovint són generades per sensors, dispositius IoT, aplicacions de monitoratge i similars. Seria aconsellable fer us de InfluxDB en els seguents casos:
+<br>
+<br>
 Monitoratge de sistemes i infraestructures: InfluxDB és excel·lent per recopilar i analitzar dades de rendiment de sistemes informàtics, xarxes, servidors i altres components d'infraestructura. Per exemple, pots utilitzar InfluxDB per monitorar la càrrega de la CPU, l'ús de la memòria, la latència de la xarxa i altres mètriques rellevants.
 
 Monitoratge de sensors i dispositius IoT: Quan es tracta de recopilar dades de sensors ambientals, dispositius IoT o qualsevol altre dispositiu que generi dades en temps real, InfluxDB és una elecció popular. Per exemple, pot ser utilitzat per monitorar la temperatura, la humitat, la pressió atmosfèrica, el consum d'energia, etc.
